@@ -271,6 +271,40 @@ GenerateClassCluster=0
 DocumentUniqueId=WEVTSSCW
 
 [Document14]
+DocumentPath=Switch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BETFIJNT
+
+[Document15]
+DocumentPath=Button_Switch_SMD.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CGYMHNGV
+
+[Document16]
 DocumentPath=Capacitor_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILCSQSLH
 
-[Document15]
+[Document17]
 DocumentPath=Connector_FFC-FPC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVRNQNIW
 
-[Document16]
+[Document18]
 DocumentPath=Connector_PinHeader_2.54mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVJFXMXE
 
-[Document17]
+[Document19]
 DocumentPath=Connector_PinSocket_2.00mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGHESCBQ
 
-[Document18]
+[Document20]
 DocumentPath=Connector_USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHQTCWFM
 
-[Document19]
+[Document21]
 DocumentPath=Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWWLFRQM
 
-[Document20]
+[Document22]
 DocumentPath=Inductor_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUKXHGEU
 
-[Document21]
+[Document23]
 DocumentPath=LED_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIQXYRKH
 
-[Document22]
+[Document24]
 DocumentPath=Package_BGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGTDVDJF
 
-[Document23]
+[Document25]
 DocumentPath=Package_DFN_QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UEPGWTXS
 
-[Document24]
+[Document26]
 DocumentPath=Package_LGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSGELVAM
 
-[Document25]
+[Document27]
 DocumentPath=Package_SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBYAYGXO
 
-[Document26]
+[Document28]
 DocumentPath=Package_TO_SOT_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMYAYFEI
 
-[Document27]
+[Document29]
 DocumentPath=Resistor_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
